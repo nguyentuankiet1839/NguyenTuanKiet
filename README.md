@@ -58,5 +58,5 @@ pip install imageio
 * Two *.graphml file in order to open a graph
 * One *. csv file in order to browse the throughput
 
-## Warning
-* The throughput file was generated randomly. Therefore, when testing with throughput statistic, the total number of edges maynot correct because some edges have throughput higher than its bandwidth or capapicity. Therefore those links are not calculated
+### Warning
+* The throughput file was generated randomly. Therefore, when testing with throughput statistic, the total number of edges maynot correct because some edges have throughput higher than its bandwidth or capapicity. Therefore those links are not calculated in a chart but still visualized in a graph
