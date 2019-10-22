@@ -1,4 +1,4 @@
-# Network
+# Netzwerkvisualisierung
 This project for study purpose. Visualize computer network and display meaningful data
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine
